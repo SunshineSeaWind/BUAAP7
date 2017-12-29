@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/Verilog/Interrupt/CPUTEST_isim_beh.exe" -prj "D:/Verilog/Interrupt/CPUTEST_beh.prj" "work.CPUTEST" "work.glbl" 
